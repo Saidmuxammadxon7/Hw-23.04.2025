@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.div {
+    width: 1440px;
+    height: 82px;
+    background-color: #000000;
+    margin: 0 auto;
+}
+
+.img {
+    padding: 18px 0 18px 57px;
+}
+
+.img1 {
+    padding: 8px 7px 26px 914px;
+}
+
+.h4 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    margin-top: -53px;
+    margin-left: 1080px;
+}
+
+.div1 {
+    width: 192px;
+    height: 82px;
+    background-color: #F1A900;
+    margin-left: 1191px;
+    margin-top: -53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h2 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    display: flex;
+}
+
+.div2 {
+    width: 1440px;
+    height: 44px;
+    background-color: #222222;
+    margin: 0 auto;
+    color: #FFFFFF;
+    /* display: flex; */
+}
+
+.div2 ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 302px 14px 285px;
+}
+
+.div3 {
+    width: 1440px;
+    height: 797px;
+    background-image: url(img/bck.png);
+    margin: 0 auto;
+}
+
+
+.div4 {
+    width: 235px;
+    height: 73px;
+    background-color: #F1A900;
+    margin-top: -440px;
+    margin-left: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+}
+
+.div5 {
+    width: 235px;
+    height: 73px;
+    margin-top: -73px;
+    margin-left: 1040px;
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h3 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+}
+.div6 {
+    width: 966px;
+    height: 202px;
+    background-color: #F1A90054;
+    margin-top: 26px;
+    margin-left: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h11 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    color: white;
+}
+
+.div7 {
+    display: flex;
+    width: 1440px;
+    height: 101px;
+    background-color: #000000;
+    margin: 103px auto;
+}
+
+
+.img2 {
+    width: 56px;
+    height: 46px;
+    margin: 28px 1327px 27px 57px;
+}
+
+.img3 {
+    width: 24px;
+    height: 24px;
+    margin-top: -300px;
+}
+
+.img4 {
+    width: 24px;
+    height: 24px;
+}
